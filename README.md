@@ -2,6 +2,8 @@
 
 > "Programming is the art of telling another human what one wants the computer to do."
 
+![FlowType Screenshot](./screenshot.png)
+
 **FlowType AI** is a keyboard-first typing speed test wrapped in a retro-futuristic terminal aesthetic. Powered by Google's **Gemini AI**, it generates infinite, unique typing prompts tailored to your specific interests and difficulty preferences.
 
 ## 🚀 Features
